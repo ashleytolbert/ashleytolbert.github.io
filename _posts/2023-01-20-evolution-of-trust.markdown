@@ -4,7 +4,7 @@ title:  "Evolution of Trust Online"
 date:   2023-01-20 
 categories: trust, game theory, cybersecurity
 ---
-In this post on CYBERSECURITY MUSINGS, you'll find my thoughts on the evolving state of trust on the Internet. Trust and safety isn't just an academic vertical but a way of life - we assesss trust and safety every day. Mathematically, my comprehension of trust was influenced heavily by game theory. One equation for trust is:
+In this post on `CYBERSECURITY MUSINGS`, you'll find my thoughts on the evolving state of trust on the Internet. Trust and safety isn't just an academic vertical but a way of life - we assesss trust and safety every day. Mathematically, my comprehension of trust was influenced heavily by game theory. One equation for trust is:
 
 {% highlight ruby %} Total Trust Score = (Character x Connections x Competency) x Time {% endhighlight %}
 
