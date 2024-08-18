@@ -4,10 +4,10 @@ title:  "Evolution of Trust Online"
 date:   2023-01-20 
 categories: trust game-theory cybersecurity
 ---
-In this post on `CYBERSECURITY MUSINGS`, you'll find my thoughts on the evolving state of trust on the Internet. Trust and safety isn't just an academic vertical but a way of life - we assesss trust and safety every day. Mathematically, my comprehension of trust was influenced heavily by game theory. One equation for trust is:
+In this edition of `CYBERSECURITY MUSINGS`, I’m sharing some thoughts on how trust is evolving online. Trust and safety aren’t just buzzwords—they’re part of our everyday lives. We’re always making judgments about who and what we can trust. My understanding of trust has been shaped by game theory - for example, one mathematical perspective on trust is represented by equation:
 
 {% highlight ruby %} Total Trust Score = (Character x Connections x Competency) x Time {% endhighlight %}
 
-I've also enjoyed this site: [Ncase](https://ncase.me/trust/) - a fun interactive game exploring how trust evolves and errodes in cooperative societies. I highly suggest checking it out.
+I also recommend visiting [Ncase](https://ncase.me/trust/), a fascinating interactive game that shows how trust builds and breaks down in cooperative societies. Definitely worth checking out if you have a few minutes!
 
 ![image](https://github.com/user-attachments/assets/eae68039-eca0-42ef-9d11-38fdaa7c6879)
