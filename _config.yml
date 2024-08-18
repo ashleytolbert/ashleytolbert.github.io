@@ -91,3 +91,8 @@ jekyll-archives:
 # jekyll-paginate
 paginate_path: /posts/:num/
 paginate: 5
+
+# collections
+collections:
+  projects:
+    output: true
