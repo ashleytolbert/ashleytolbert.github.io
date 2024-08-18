@@ -1,0 +1,49 @@
+/* Add this to your SCSS or CSS file */
+
+.project-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: $spacing-unit; /* This variable is defined in your SCSS */
+}
+
+.project-item {
+    width: calc(33.333% - $spacing-unit); /* Three items per row */
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 4px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    
+    @include media-query($on-palm) {
+        width: calc(50% - $spacing-unit); /* Two items per row on smaller screens */
+    }
+
+    @include media-query(400px) {
+        width: 100%; /* Full width on very small screens */
+    }
+}
+
+.project-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.project-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.project-title {
+    font-size: $base-font-size;
+    font-weight: 600;
+    margin: $spacing-unit 0;
+}
+
+.project-description {
+    font-size: $small-font-size;
+    color: $grey-color-dark;
+    padding: 0 $spacing-unit;
+    margin-bottom: $spacing-unit;
+}
