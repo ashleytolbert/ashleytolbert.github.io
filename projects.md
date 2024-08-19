@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projects"
+title: "Projects and Talks"
 permalink: /projects/
 ---
 
@@ -21,6 +21,11 @@ permalink: /projects/
     <img src="https://media.wired.com/photos/5b847825cde746582fe9ff02/master/w_2240,c_limit/How%20Technology%20Is%20Changing%20the%20Way%20We%20Love.jpg" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
-  <!-- Add more project cards as needed -->
+  <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 340px;"> 
+    <h4><a href="https://www.rsaconference.com/Library/presentation/USA/2023/Kindred%20Chaos%20-%20Security%20vs%20Privacy%20Incident%20Response">Kindred Chaos</a> - Dissecting Security and Privacy Incident Response.</h4>
+    <img src="https://www.nightdragon.com/wp-content/uploads/rsa-conference-logo-bg-520x293-1.svg" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
+  </div>
+
+  <!-- Space for more project cards -->
 
 </div>
