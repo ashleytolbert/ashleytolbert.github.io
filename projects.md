@@ -23,7 +23,7 @@ permalink: /projects/
 
   <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 340px;"> 
     <h4><a href="https://www.rsaconference.com/Library/presentation/USA/2023/Kindred%20Chaos%20-%20Security%20vs%20Privacy%20Incident%20Response">Kindred Chaos</a> - Dissecting Security and Privacy Incident Response.</h4>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyL-HgLU4VfJKpSFR2ZqC0x9J3uIIcGK1n5w&s" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
+    <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2023/03/rsa-conference.png" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
   <!-- Space for more project cards -->
