@@ -27,12 +27,10 @@ permalink: /projects/
     <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2023/03/rsa-conference.png" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
-   <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 350px;"> 
-    <h4><a href="https://www.clubhouse.com/house/securityandprivacy?utm_medium=user_profile"</a> I ran a global 11k person Security Club on Clubhouse 2020-2021.</h4>
-    <img src="https://play-lh.googleusercontent.com/AQa5kjFAEk7uyYWhDmLzjuz3zMAVhF3853CRr0vmAboeA7KE4-HAWKZdx9OCmswz7Sir;">
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 350px;"> 
+    <h4> I ran a <a href="https://www.clubhouse.com/house/securityandprivacy?utm_medium=user_profile">11k person global Security Club</a> on Clubhouse in 2020</h4>
+    <img src="https://play-lh.googleusercontent.com/AQa5kjFAEk7uyYWhDmLzjuz3zMAVhF3853CRr0vmAboeA7KE4-HAWKZdx9OCmswz7Sir;" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
-
-  
 
   <!-- Space for more project cards -->
 
