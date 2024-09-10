@@ -3,7 +3,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
+  - title: "Projects & Talks"
     url: /projects/
   - title: "Archive"
     url: /archives/
