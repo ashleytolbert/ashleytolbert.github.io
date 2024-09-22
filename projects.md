@@ -12,7 +12,7 @@ permalink: /projects/
   </div>
 
   <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 340px;"> 
-    <h4>A personal pet project: <a href="https://anotherproject.org">Steganographic Poetry</a> conceals messages in traditional verse to merge literary art and cryptography.</h4>
+    <h4>A pet project: <a href="https://anotherproject.org">steganographic poetry</a> conceals messages in literary verse to merge art and cryptography.</h4>
     <img src="https://qph.cf2.quoracdn.net/main-qimg-0f1ee75a8a3f8612d98ca77ede8ee1b8" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
@@ -28,7 +28,7 @@ permalink: /projects/
   </div>
 
 <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 340px;"> 
-    <h4> I ran an <a href="https://www.clubhouse.com/house/securityandprivacy?utm_medium=user_profile">11k person Security Club</a> on Clubhouse in 2020.</h4>
+    <h4> I ran an <a href="https://www.clubhouse.com/house/securityandprivacy?utm_medium=user_profile">11k person Security Club</a> on Clubhouse in 2021.</h4>
     <img src="https://play-lh.googleusercontent.com/AQa5kjFAEk7uyYWhDmLzjuz3zMAVhF3853CRr0vmAboeA7KE4-HAWKZdx9OCmswz7Sir;" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
