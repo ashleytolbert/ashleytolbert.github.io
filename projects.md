@@ -33,7 +33,7 @@ permalink: /projects/
   </div>
 
   <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 340px;"> 
-    <h4> I spoke on deep fakes at the <a href="https://www.athensdemocracyforum.com/program/panel-the-art-of-manipulation-deepfakes-and-democracy/">New York Times Athens Forum.</a></h4>
+    <h4> I spoke on deep fakes at the <a href="https://www.athensdemocracyforum.com/program/panel-the-art-of-manipulation-deepfakes-and-democracy/">New York Times Athens Forum with the former President of Estonia.</a></h4>
     <img src="https://www.paymentscardsandmobile.com/wp-content/uploads/2023/12/Slide-16_9-3.png" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
