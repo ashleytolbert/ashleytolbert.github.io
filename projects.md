@@ -7,7 +7,7 @@ permalink: /projects/
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"> 
 
   <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 340px;"> 
-    <h4>I worked on <a href="https://disinfodex.org">Disinfodex</a> at Harvard Berkman - a collection of verified disinformation removals.</h4>
+    <h4>I researched <a href="https://disinfodex.org">influence operations</a> at Harvard Berkman, aggregating a collection of verified campaign removals called Disinfodex.</h4>
     <img src="https://firstdraftnews.org/wp-content/uploads/2020/12/FD0093_Ten-Lessons-from-2020-article-9_hero-featured-image-thumb-1536x862.jpg" alt="Project Image" style="width: 100%; height: auto; border-radius: 4px;">
   </div>
 
